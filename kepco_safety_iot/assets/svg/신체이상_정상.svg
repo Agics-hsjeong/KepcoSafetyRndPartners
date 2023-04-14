@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="35" height="35" viewBox="0 0 35 35">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #95a4b4;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_6409" data-name="사각형 6409" class="cls-1" width="35" height="35" transform="translate(-19296 17613)"/>
+    </clipPath>
+  </defs>
+  <g id="마스크_그룹_349" data-name="마스크 그룹 349" class="cls-2" transform="translate(19296 -17613)">
+    <path id="Heart" class="cls-3" d="M10.369,5.184c-3.745,0-7.119,2.888-7.119,6.525a10.215,10.215,0,0,0,2.966,6.525,26.951,26.951,0,0,0,5.339,4.153l2.966,2.373a1.1,1.1,0,0,0,1.186,0l2.966-2.373a26.95,26.95,0,0,0,5.339-4.153,10.214,10.214,0,0,0,2.966-6.525c0-3.637-3.373-6.525-7.119-6.525a7.125,7.125,0,0,0-4.746,2.373A7.125,7.125,0,0,0,10.369,5.184Z" transform="translate(-19293.318 17615.527)"/>
+  </g>
+</svg>
