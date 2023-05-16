@@ -10,8 +10,8 @@ import 'package:chewie/chewie.dart';
 import 'package:kepco_safety_iot/widgets/common/WorkerBox.dart';
 import 'package:kepco_safety_iot/widgets/common/TableBox.dart';
 
-// String gwUrl = '223.171.144.245';
-String gwUrl = '223.171.144.244';
+String gwUrl = '223.171.144.245';
+// String gwUrl = '223.171.144.244';
 
 List<XFile> pickedImgs = [];
 String pathPDF = "";
